@@ -37,3 +37,13 @@ A Webpage Language Translator containing the translations for All the Major Lang
 **v.0.0.1** (Sample Text)
 <p align = "center"><img src = "./assets/images/textpreview.png" height = 300 width = 450 alt = "AITranscriber Snapshot v1"></p>
 
+**Click [`Here`](https://translator.julianidl.repl.co/) For Live Demo**
+
+## Note ✏️
+
+- Feel free to contact me in my  [![My Website](https://img.shields.io/website?down_color=Red&down_message=Offline&style=for-the-badge&up_color=Green&up_message=Online&url=https%3A%2F%2Fjulian-idl.codes)](https://julian-idl.codes)
+
+## Author
+
+Made with ♥ by [`Julian-Idl`](julian-idl.codes)
+
