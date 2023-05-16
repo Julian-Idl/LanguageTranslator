@@ -45,5 +45,5 @@ A Webpage Language Translator containing the translations for All the Major Lang
 
 ## Author
 
-Made with ♥ by [`Julian-Idl`](julian-idl.codes)
+Made with ♥ by [`Julian-Idl`](https://julian-idl.codes)
 
