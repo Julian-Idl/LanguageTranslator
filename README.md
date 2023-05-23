@@ -1,10 +1,10 @@
-## LanguageTranslator
+# LanguageTranslator
 
 <p align = "center"><img src = "./assets/images/1305-WIRED-TranslateApps-1.png" height = 400 alt = "Wallet Icon"></p>
 
 A Webpage Language Translator containing the translations for All the Major Languages in the World.
 
-## Set-Up ⚒️
+# Set-Up ⚒️
 
 <p align = "center"><img src = "./assets/images/istockphoto-615991428-612x612.jpg" height = 300 alt = "SetUp Icon"></p>
 
@@ -27,7 +27,7 @@ A Webpage Language Translator containing the translations for All the Major Lang
 
 - To stop the application, press `CTRL + C` in your terminal / command prompt
 
-## Demo 👇
+# Demo 👇
 
 **v.0.0.1**
 
@@ -39,11 +39,11 @@ A Webpage Language Translator containing the translations for All the Major Lang
 
 **Click [`Here`](https://translator.julianidl.repl.co/) For Live Demo**
 
-## Note ✏️
+# Note ✏️
 
 - Feel free to contact me in my  [![My Website](https://img.shields.io/website?down_color=Red&down_message=Offline&style=for-the-badge&up_color=Green&up_message=Online&url=https%3A%2F%2Fjulian-idl.codes)](https://julian-idl.codes)
 
-## Author
+# Author
 
 Made with ♥ by [`Julian-Idl`](https://julian-idl.codes)
 
